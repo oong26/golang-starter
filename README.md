@@ -1,4 +1,4 @@
-## Sosio Report Generator Using Gemini AI
+## Golang Starter Project
 
 #### How to use
 
